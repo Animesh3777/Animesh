@@ -7,10 +7,6 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like to play Chess, and I have a big interest in Crypto and FX Trading. 
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Animesh3777&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Animesh3777&theme=radical)
-
 ## 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/theanimeshkumar" target="_blank">
@@ -24,11 +20,7 @@
   </a>
 </p>
 
-## 📊 GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📈 My GitHub Top Languages
+## 📊 My GitHub Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh3777&theme=radical&layout=compact)
 
 ## 🤝 Let's Connect
