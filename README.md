@@ -20,8 +20,6 @@
   </a>
 </p>
 
-## 📊 My GitHub Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh3777&theme=radical&layout=compact)
 
 ## 🤝 Let's Connect
 I'm always interested in collaborating on new projects or discussing ideas. If you'd like to reach out, feel free to connect with me on LinkedIn or Twitter!
