@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Animesh Kumar!
 
 ## About Me
-- 💬 Ask me about Python, Excel, and Algo Trading.
+- 💬 Ask me about Python, Excel, Quant and Algo Trading.
 - 📊 I have a passion for data analysis and automation.
 - 🌱 Currently exploring Machine Learning and AI.
 - 😄 Pronouns: He/Him.
