@@ -30,6 +30,5 @@ Did you know that the longest game of Chess ever played was 269 moves long and e
 ## 🎯 Goals for 2023
 - Contribute to more open-source projects.
 - Improve my data science and machine learning skills.
-- Reach 10k subscribers on my YouTube channel.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Animesh3777&color=blueviolet&style=flat-square)
